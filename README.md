@@ -41,30 +41,3 @@ This project focuses on Software Quality Assurance through manual testing, autom
 ## 📂 Project Structure
 
 ```text
-Banking-Transaction-System-Testing/
-│
-├── Application/
-│   └── Java Source Code
-│
-├── Test-Documentation/
-│   ├── Test-Plan/
-│   ├── Test-Cases/
-│   ├── Static-Testing/
-│   └── Test-Data/
-│
-├── Automation-Testing/
-│   ├── Selenium/
-│   └── Postman/
-│
-├── Jira-Reports/
-│   ├── Test-Execution-Report/
-│   ├── Jira-Feedback-Report/
-│   └── Screenshots/
-│
-├── Evidence/
-│   ├── Manual-Testing/
-│   ├── Jira/
-│   ├── Selenium/
-│   └── Postman/
-│
-└── README.md
